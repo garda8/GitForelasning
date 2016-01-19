@@ -10,11 +10,7 @@ namespace GitForelasning
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Start");
-            Console.WriteLine("scKeijser");
-            Console.WriteLine("Davaeorn");
-            Console.WriteLine("proxy51");
-            Console.WriteLine("AntonHoog");
+            Console.WriteLine("HelloWorld!");
             Console.ReadKey();
         }
     }
