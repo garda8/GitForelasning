@@ -12,7 +12,9 @@ namespace GitForelasning
         {
             Console.WriteLine("Start");
             Console.WriteLine("scKeijser");
+            Console.WriteLine("Davaeorn");
             Console.WriteLine("proxy51");
+            Console.WriteLine("AntonHoog");
             Console.WriteLine("aaalex91");
             Console.ReadKey();
         }
