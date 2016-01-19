@@ -11,6 +11,7 @@ namespace GitForelasning
         static void Main(string[] args)
         {
             Console.WriteLine("Start");
+            Console.WriteLine("scKeijser");
             Console.ReadKey();
         }
     }
