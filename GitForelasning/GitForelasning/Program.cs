@@ -15,6 +15,7 @@ namespace GitForelasning
             Console.WriteLine("Davaeorn");
             Console.WriteLine("proxy51");
             Console.WriteLine("AntonHoog");
+            Console.WriteLine("viakob");
             Console.ReadKey();
         }
     }
