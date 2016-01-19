@@ -18,6 +18,7 @@ namespace GitForelasning
             Console.WriteLine("viakob");
             Console.WriteLine("ezs-code Kenneth");
             Console.WriteLine("manaomi Mari");
+            Console.WriteLine("Ali Test");
             Console.ReadKey();
         }
     }
